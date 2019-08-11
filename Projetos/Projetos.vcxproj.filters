@@ -18,5 +18,8 @@
     <ClCompile Include="Busca_Bin_File.c">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="Busca_Arvore_Arquivo.c">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

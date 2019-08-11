@@ -1,4 +1,4 @@
-#include <stdlib.h>
+/*#include <stdlib.h>
 #include <stdio.h>
 
 void main() {
@@ -47,4 +47,4 @@ int pos(FILE* arq, int ini, int fim, char key) {
 		}
 			
 	}
-}
+}*/
