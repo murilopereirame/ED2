@@ -1,4 +1,4 @@
-#include <stdlib.h>
+/*#include <stdlib.h>
 #include <stdio.h>
 
 typedef struct {
@@ -84,4 +84,4 @@ int BuscaBin(int pos, int chave, FILE* arq, int sizeNO) {
 			BuscaBin(aux->ind_dir, chave, arq, sizeNO);
 		}
 	}
-}
+}*/

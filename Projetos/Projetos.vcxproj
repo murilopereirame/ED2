@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Busca_Arq_Bin_char.c" />
     <ClCompile Include="Busca_Arvore_Arquivo.c" />
     <ClCompile Include="Busca_Bin_File.c" />
   </ItemGroup>
