@@ -4,5 +4,6 @@ A cópia é livre para a utilização em estudos! Sinta-se a vontade para baixar
 <strong>Exercícios resolvidos:</strong>
 - Busca binária em arquivos de texto
 - Busca binária em arquivos binários usando árvores
-
 - Hacktoberfest modification 02
+- Modificação Hacktoberfest 01
+
